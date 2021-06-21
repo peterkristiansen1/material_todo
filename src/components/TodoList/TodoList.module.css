@@ -1,0 +1,17 @@
+.todoList {
+  margin-bottom: 3em;
+}
+
+.tableContainer {
+  max-width: 40em;
+}
+
+.table {
+  table-layout: fixed;
+}
+
+.done,
+.edit,
+.delete {
+  width: 3em;
+}

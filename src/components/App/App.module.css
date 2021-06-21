@@ -1,0 +1,25 @@
+.appContainer :global(.MuiTypography-h2) {
+  margin: 1em 0 0.75em;
+}
+
+.appContainer :global(.MuiTypography-h4) {
+  margin-bottom: 0.5em;
+}
+
+.appContainer :global(.MuiInputBase-input) {
+  /* Adjust padding to align input with icon. */
+  padding: 0.875em 0 0.9375em;
+}
+
+.appContainer :global(.MuiInputLabel-root) {
+  color: inherit;
+  margin-bottom: 0.5em;
+}
+
+:global(.MuiPopover-paper) {
+  padding: 1rem;
+}
+
+:global(.MuiPopover-paper p) {
+  margin-bottom: 0.5em;
+}
